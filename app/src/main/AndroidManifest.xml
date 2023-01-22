@@ -27,7 +27,7 @@
             android:name="com.example.MirScoQuiz.SignInActivity"
             android:theme="@style/CustomNoActionBarTheme" />
         <activity
-            android:name="com.example.MirScoQuiz.SplashScreen"
+            android:name="com.example.MirScoQuiz.SplashScreen" android:exported="true"
             android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
