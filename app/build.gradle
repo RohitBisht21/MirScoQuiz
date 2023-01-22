@@ -8,7 +8,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "com.example.MirSco"
+        applicationId "com.example.MirScoQuiz"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
